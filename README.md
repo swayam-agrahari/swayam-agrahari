@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swayam-agrahari" alt="swayam-agrahari" /></a> </p>
 
-- 🔭 I’m currently working on **Android Development with Python**
+- 🔭 I’m currently working on **Web Development with React.js**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java script**
 
 - 💬 Ask me about **Python , C**
 
