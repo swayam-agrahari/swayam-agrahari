@@ -1,9 +1,12 @@
 [![MasterHead](https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ)](https://swayam-agrahari.io)
 <h1 align="center">Hi 👋, I'm Swayam Agrahari</h1>
-<h3 align="center">A passionate coder from Nepal :nepal:</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b95259c3fe19c6b6acad85c6162f4c797623ec821476&rid=giphy.gif&ct=g">
+<p align=center""><h3 align="center">A passionate coder from Nepal :nepal:
+<img src="https://komarev.com/ghpvc/?username=swayam-agrahari&label=Profile%20views&color=0e75b6&style=flat" alt="swayam-agrahari" /></h3> </p>
+<img align="left" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b95259c3fe19c6b6acad85c6162f4c797623ec821476&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swayam-agrahari&label=Profile%20views&color=0e75b6&style=flat" alt="swayam-agrahari" /> </p>
+
+<img align="right" width="400" height="300" src="https://octodex.github.com/images/codercat.jpg" >
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swayam-agrahari" alt="swayam-agrahari" /></a> </p>
 
