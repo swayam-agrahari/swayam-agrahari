@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swayam-agrahari" alt="swayam-agrahari" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce website**
+- 🔭 I’m currently working on **Godot Multiplayer Game with node and websockets**
 
 - 🌱 I’m currently learning **Next.js and Express.js**
-
-- 🤝 I’m looking for help with **Express.js**
 
 - 💬 Ask me about **react, next**
 
